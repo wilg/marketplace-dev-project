@@ -1,0 +1,13 @@
+{
+  "constants": {
+    "connection_name": {
+      "label": "Connection",
+      "description": "This connection will be used to connect to your database.",
+      "value_constraint": "connection"
+    },
+    "schema_name": {
+      "label": "Schema",
+      "description": "This is the database schema where the tables live and breathe."
+    }
+  }
+}
