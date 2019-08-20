@@ -9,3 +9,7 @@ constant: schema_name {
   export: override_optional
   value: "demo_db"
 }
+
+application: test {
+  label: "Test Application"
+}
